@@ -1,4 +1,3 @@
-strankove templaty:
 	homepage 
 		posledny prispevok v aktivnej "kategorii" 
 		alternativne pinovatelny prispevok aby bol ako prvy
