@@ -24,6 +24,7 @@
 			-medajlonik osobnosti
 			-dalsie citanie: nasledujuce clanky chrnologicky po aktualnom vramci rovnakeho "projektu"
 		clanok bude mat navyse: tagy, spomenute osobnosti, do akej kategorie (projektu) patri - mozu byt nezaradene?, nepovinna podkategoria (kapitola)
+		duhovy progressbar ktory sa naplna podla toho v kolko% z clanku sa clovek nachadza
 	----
 		27h frontend
 		6h backend
