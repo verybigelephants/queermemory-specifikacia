@@ -39,7 +39,7 @@
 		obrazok
 		zoznam autorovych clankov
 	----
-		[?] frontend
+		6 frontend
 		2h backend 
 	
 	detail osobnosti
@@ -74,15 +74,14 @@
 		menu co bude zobrazovat tagy/kategorie podla obsahu ktory je nastranke + veci z aktivnej "kategorie" (projektu, teraz loading:love)
 	----
 		1h backend 
-		6h frontend
-		extra frontend [?] - neviem co bude v stranke "o projekte"
+		10h frontend
 
 	site mapa a rss feedaktivne 
 		- zatial neprogramujeme, mozme dorobit ked bude na stranke obsah
 		
 	extra veci
 		pripomienky - odhadujem to podla pripomienok k blanke a landing page  
-			4h-18h frontend
+			6h-20h frontend
 			1h-2h backend 
 		"devops" (hosting, certifikaty, serverove veci) -malo by byt vpohode, sme na websupporte
 			2h backend
@@ -93,7 +92,7 @@
 		
 	========================= 
 		28h - 29h backend, 35€/h, 980€ - 1015€
-		62h - 76h frontend, 25€h, 1550€- 1900€ + naklady co su este [?] a nemaju design  
+		74h - 88h frontend, 25€h, 1850€- 2200€
 		5h - 7h accounting, 25€/h, 125€ - 175€
 	---
-		2655€ - 3090€ + naklady co su este [?] a nemaju design
+		2955€ - 3390€ + naklady co su este [?] a nemaju design
