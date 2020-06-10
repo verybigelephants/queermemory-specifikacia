@@ -95,4 +95,4 @@
 		74h - 88h frontend, 25€h, 1850€- 2200€
 		5h - 7h accounting, 25€/h, 125€ - 175€
 	---
-		2955€ - 3390€ + naklady co su este [?] a nemaju design
+		2955€ - 3390€
